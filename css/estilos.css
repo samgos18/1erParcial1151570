@@ -11,9 +11,17 @@ a:hover{
 }
 
 .pad{
-	padding: 15px;
+	padding: 13px;
 }
 
 .izquierda{
 	text-align: left;
+}
+
+.colorfot{
+	background-color: #5B03FD;
+}
+
+.blanco{
+	color: white;
 }
