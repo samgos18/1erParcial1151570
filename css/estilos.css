@@ -5,3 +5,11 @@
 a:hover{
 	color: white!important;
 }
+
+.btn{
+	text-align: right!important;
+}
+
+.pad{
+	padding: 15px;
+}
